@@ -1,5 +1,5 @@
 # BigAssistIA
 ## 📊 Slides do Pitch
 
-![Slide 1](modeloPitch.pdf)
+![Slide 1](ModeloPitch.pdf)
 
